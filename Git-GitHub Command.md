@@ -111,3 +111,17 @@ cd ..
 mkdir : To create the new directory under folder.
 
 Developers use multiple branches so that many people can work on different features without affecting the stable main code. Only after a feature is tested and reviewed is it merged into main
+
+Branch Commands:
+----------------
+git branch (To check branch)
+git branch -M main(To Rename branch)
+git checkout <branch name> (To navigate)
+git checkout -b <new branch name> (To Create New branch)
+git branch -d <branch name> (To delete branch)
+
+
+
+
+
+
