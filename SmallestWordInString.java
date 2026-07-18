@@ -16,5 +16,6 @@ public class SmallestWordInString {
         }
 
         System.out.println("The smallest word in the string is: " + smallest);
+        System.out.println("Refer the above result");
     }
 }
