@@ -6,7 +6,7 @@ Git is a Version Control system. It is:
 1. Popular
 2. Free and Opensource
 3. Fast and scalable
-4. To Track the history
+4. To Track the code history
 5. Collaborations
 
 GitHub:
@@ -31,14 +31,14 @@ clear command : To Clear the window
 
 Configuration in Git:
 ----------------------
-Configuration can be happened in Gloabl or Local level.
+Configuration can be happened in Global or Local level.
 
 git config --global user.name(username)
 git config --global user.email "someone@email.com"
 git config --list
 ~ : This symbol indicate that we're in Root directory/ Primary directory.
 
-Open git Bash in sytem and write below command:
+Open git Bash in system and write below command:
 git config --global user.name "Satyapriya-kund"
 git config --global user.email "satyapriyakund9439@gmail.com"
 git config --list // To check the Set Up.
