@@ -120,7 +120,7 @@ git checkout <branch name> (To navigate)
 git checkout -b <new branch name> (To Create New branch)
 git branch -d <branch name> (To delete branch)
 
-
+Learn Test Automation Framework and push your code to Git Hub Repository.
 
 
 

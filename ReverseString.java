@@ -2,7 +2,7 @@
 
 public class ReverseString{
     public static void main(String args[]){
-        String str = "Master Java Programming";
+        String str = "Master Test Automation Framework";
         StringBuilder reversed = new StringBuilder(str).reverse();
         System.out.println(reversed);
     }
