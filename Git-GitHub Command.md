@@ -122,6 +122,5 @@ git branch -d <branch name> (To delete branch)
 
 Learn Test Automation Framework and push your code to Git Hub Repository.
 
-Reviewing the git and git hub fundamental notes.
 
 
